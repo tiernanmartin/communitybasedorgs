@@ -1,0 +1,32 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-"
+)
+```
+
+# communitybasedorgs
+
+<!-- badges: start -->
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+<!-- badges: end -->
+
+## Overview
+
+The goal of the [`communitybasedorgs`](https://github.com/tiernanmartin/communitybasedorgs) project is to better understand the "area of influence" of community-based organizations in the United States.
+
+## Installation
+
+```{r, eval=FALSE}
+# The package is only available on Github:
+remotes::install_github("tiernanmartin/communitybasedorgs")
+
+```
+
