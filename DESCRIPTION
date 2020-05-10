@@ -1,12 +1,12 @@
 Package: communitybasedorgs
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Analysis of US Community-Based Organizations (CBOs)
+Version: 0.0.1
 Authors@R: 
     person(given = "Tiernan",
            family = "Martin",
            role = c("aut", "cre"),
            email = "tiernan.martin@gmail.com")
-Description: What the package does (one paragraph).
+Description: The goal of the [`communitybasedorgs`](https://github.com/tiernanmartin/communitybasedorgs) project is to better understand the "area of influence" of community-based organizations in the United States.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
