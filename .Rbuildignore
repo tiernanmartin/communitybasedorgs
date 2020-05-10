@@ -1,3 +1,10 @@
+tmp/*
+^R/archive/*
+^R/scripts/*
+^extdata/*
+^inst/extdata/*
+^\.drake$
+^LICENSE\.md$
 ^communitybasedorgs\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$

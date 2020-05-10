@@ -1,3 +1,9 @@
-.Rproj.user
 .Rhistory
 .RData
+.Rproj.user
+.drake
+extdata/*
+inst/extdata/**/[a-z]*.*
+inst/extdata/**/[0-9]*.*
+tmp/*
+
