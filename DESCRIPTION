@@ -6,9 +6,19 @@ Authors@R:
            family = "Martin",
            role = c("aut", "cre"),
            email = "tiernan.martin@gmail.com")
-Description: The goal of the [`communitybasedorgs`](https://github.com/tiernanmartin/communitybasedorgs) project is to better understand the "area of influence" of community-based organizations in the United States.
+Description: An analysis of the "area of influence" of community-based 
+    organizations in the United States.
 License: MIT + file LICENSE
+URL: https://github.com/tiernanmartin/communitybasedorgs
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Depends:
+    R (>= 4.0),
+    drake (>= 7.12)
+Imports:
+    magrittr,
+    purrr,
+    tibble,
+    stringr 
