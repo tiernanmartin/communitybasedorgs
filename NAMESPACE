@@ -2,5 +2,8 @@
 
 export("%>%")
 export(g)
+export(get_data_plan)
+export(get_project_plan)
+export(get_workflow_plan)
 import(purrr)
 importFrom(magrittr,"%>%")
